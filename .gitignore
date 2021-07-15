@@ -1,3 +1,4 @@
-.tmp
-.txt
+*.tmp
+*.txt
 BINARY-DATA
+BINARY-MASTER
